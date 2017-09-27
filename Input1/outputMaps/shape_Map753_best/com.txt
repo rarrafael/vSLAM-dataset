@@ -1,0 +1,35 @@
+Shape 0 with 2415points:
+1.61867
+2.43049
+3.0094
+
+Shape 1 with 707points:
+1.45318
+1.51613
+3.816
+
+Shape 2 with 541points:
+-0.0697489
+1.14397
+4.24453
+
+Shape 3 with 574points:
+1.28213
+0.918642
+4.39275
+
+Shape 4 with 624points:
+3.6249
+1.11477
+3.80377
+
+Shape 5 with 370points:
+0.469919
+1.7298
+3.43877
+
+Shape 6 with 262points:
+2.68509
+1.21141
+4.20716
+

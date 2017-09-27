@@ -1,0 +1,35 @@
+Shape 0 with 1122points:
+0.503009
+0.744218
+3.59411
+
+Shape 1 with 291points:
+1.97234
+0.685286
+3.79754
+
+Shape 2 with 67points:
+-0.530035
+1.1157
+3.42613
+
+Shape 3 with 171points:
+-0.797112
+0.244644
+3.86902
+
+Shape 4 with 123points:
+-0.699007
+1.1687
+3.65718
+
+Shape 5 with 47points:
+0.686011
+1.54253
+3.61327
+
+Shape 6 with 103points:
+-0.58229
+0.275223
+3.55293
+
